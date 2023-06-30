@@ -1,7 +1,16 @@
 # Group 13 NLP Project Demo
 
+## Group members
+
+| Full Name             | Student ID    |  Github|
+|    :---:              |       :---:   | :---:|
+| Nguyen Quang Duc      | 20204876      |https://github.com/QuangDuc-HUST|
+| Tran Le Phuong Thao| 20200604      |https://github.com/TranafLee |
+
 ## Git pages for redirecting to Alpaca-Lora-7B demo
-https://qducnguyen.github.io/llama-nlp-project-20222/
+https://qducnguyen.github.io/alpacalorademo/
+
+
 
 ## Deployment
 On kaggle: https://www.kaggle.com/code/quangduc0703/alpaca-7b-lora-demo
