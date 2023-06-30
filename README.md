@@ -4,7 +4,7 @@
 
 | Full Name             | Student ID    |  Github|
 |    :---:              |       :---:   | :---:|
-| Nguyen Quang Duc      | 20204876      |https://github.com/QuangDuc-HUST|
+| Nguyen Quang Duc      | 20204876      |https://github.com/qducnguyen|
 | Tran Le Phuong Thao| 20200604      |https://github.com/TranafLee |
 
 ## Git pages for redirecting to Alpaca-Lora-7B demo
