@@ -15,7 +15,7 @@ https://qducnguyen.github.io/alpacalorademo/
 ## Deployment
 On kaggle: https://www.kaggle.com/code/quangduc0703/alpaca-7b-lora-demo
 
-Please follow the instruction on notebook show you can deploy the Chatbox.
+Please follow the instruction on notebook to deploy the Chatbox.
 
 ## References
     1. https://github.com/deep-diver/LLM-As-Chatbot
